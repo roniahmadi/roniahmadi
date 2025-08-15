@@ -29,15 +29,6 @@ Hi! I'm **Roni Ahmadi**, a **Full-Stack Developer** and **Blockchain Enthusiast*
 
 ---
 
-## 💹 Live Crypto Prices  
-<p align="center">
-  <img src="https://cryptoprices.cc/bitcoin.svg" alt="BTC Price" width="200"/>
-  <img src="https://cryptoprices.cc/ethereum.svg" alt="ETH Price" width="200"/>
-  <img src="https://cryptoprices.cc/binancecoin.svg" alt="BNB Price" width="200"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/roniahmadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
