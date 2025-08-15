@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there 👋, I'm Roni Ahmadi
 
-**roniahmadi/roniahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Open Source Enthusiast | Tech Explorer**  
+Passionate about building scalable applications, exploring new technologies, and sharing knowledge.
 
-Here are some ideas to get you started:
+---
 
-- 🌱 I’m currently learning Programming language, now, i will learning python for now and next i want learning react js and vue js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my project 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Coding
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python, PHP
+- **Backend:** Node.js, Express.js, Django, Laravel
+- **Frontend:** React.js, Next.js, Vue.js
+- **Databases:** MySQL, PostgreSQL, MongoDB, Prisma ORM
+- **Tools & DevOps:** Docker, GitHub Actions, Nginx, PM2
+- **Other:** WebSocket, Baileys WhatsApp Bot, API Integration
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roniahmadi&show_icons=true)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+---
+
+## 📊 GitHub Stats
+![Roni's GitHub stats](https://github-readme-stats.vercel.app/api?username=roniahmadi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roniahmadi&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+- Advanced Node.js architecture
+- Machine Learning model integration
+- Cloud deployment (AWS, Vercel, Railway)
+
+---
+
+## 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/roniahmadi)  
+[![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white)](mailto:ronironiahmadi@gmail.com)  
+[![Website](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](-)
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
