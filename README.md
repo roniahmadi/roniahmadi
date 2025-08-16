@@ -1,42 +1,58 @@
-<!-- Banner Animasi -->
+<h1 align="center">Hi, I'm Roni Ahmadi 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00FFD1&center=true&vCenter=true&width=700&lines=Blockchain+Developer;Crypto+Enthusiast;Full-Stack+Engineer;Smart+Contract+Architect;Open+Source+Contributor" alt="Typing Animation" />
+  <b>Code Alchemist | Systems Hacker | Builder of Impossible Things</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&size=22&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Machine+Vision+Enthusiast;DevOps+Tinkerer;Problem+Solver" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-Hi! I'm **Roni Ahmadi**, a **Full-Stack Developer** and **Blockchain Enthusiast** passionate about:  
-- 🪙 **Crypto Ecosystem Development** (wallets, blockchain API, trading bots)  
-- 🛠 **Smart Contract** on Ethereum & Binance Smart Chain  
-- ⚡ Building high-performance **Web3 DApps**  
-- 📊 Integrating **Crypto Price Feeds** & WebSocket APIs  
+### 🚀 About Me
+I blend relentless curiosity with precise technical discipline.  
+From building agile backends with **Node.js + Prisma**, to crafting real-time **YOLO Computer Vision** pipelines,  
+to deploying clean **Docker** environments — I create systems that don’t just *work*, they endure.
 
 ---
 
-## 🚀 Tech & Blockchain Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,react,nextjs,vue,nodejs,express,django,laravel,solidity,postgres,mysql,mongodb,docker,git,github,nginx&theme=light" />
+### 🛠 Tech Arsenal
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-A80000?logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📌 Philosophy
+> "Code is not just lines of instructions. It should be elegant, fast, and built to stand the test of time."
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roniahmadi&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roniahmadi&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=roniahmadi&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahmadi&theme=radical" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/roniahmadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:roni@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/roniahmadi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://roniahmadi.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+### 🌐 Let's Connect
+<p>
+  <a href="https://github.com/roniahmadi">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/roniahmadi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ronironiahmadi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
-
----
-
-> _"In blockchain we trust — decentralize everything."_  
