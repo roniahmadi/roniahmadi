@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Roni Ahmadi 👋</h1>
 
 <p align="center">
-  <b>Code Alchemist | Systems Hacker | Builder of Impossible Things</b>
+  <b>Code Alchemist | Systems Hacker | Builder of Impossible Things | Blockchain Developer</b>
 </p>
 
 <p align="center">
