@@ -57,6 +57,8 @@ to deploying clean **Docker** environments — I create systems that don’t jus
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArjunaFransesco/ArjunaFransesco/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
