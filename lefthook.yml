@@ -1,0 +1,27 @@
+# Local git hooks. Run `lefthook install` once per clone to activate them.
+
+commit-msg:
+  commands:
+    no-tool-attribution:
+      run: |
+        if grep -qiE 'co-authored-by:[[:space:]]*claude|generated with \[?claude code' "{1}"; then
+          echo "commit message carries a tool attribution trailer; remove it before committing"
+          exit 1
+        fi
+
+pre-commit:
+  parallel: true
+  commands:
+    workflow-yaml:
+      glob: ".github/workflows/*.{yml,yaml}"
+      run: python3 -c "import sys,yaml; [yaml.safe_load(open(f)) for f in sys.argv[1:]]" {staged_files}
+    readme-links:
+      glob: "README.md"
+      run: |
+        grep -oE 'src="https://[^"]+"' {staged_files} | sed 's/src="//;s/"$//' | sort -u | while read -r url; do
+          code=$(curl -s -o /dev/null -m 20 -w '%{http_code}' -L "$url")
+          case "$code" in
+            2*|3*) ;;
+            *) echo "dead image $code $url"; exit 1 ;;
+          esac
+        done
