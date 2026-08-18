@@ -33,7 +33,6 @@ to shipping **upgradeable Solidity vaults** and clean **Docker** environments â€
 | --- | --- | --- |
 | [SistemKeuanganku](https://github.com/roniahmadi/SistemKeuanganku) | Blockchain | Financial record system using a blockchain as the ledger |
 | [stakingpagecrypto](https://github.com/roniahmadi/stakingpagecrypto) | JavaScript Â· Web3 | Front end for a crypto staking flow |
-| [apw](https://github.com/roniahmadi/apw) | TypeScript | Small WhatsApp API service |
 | [pi_network_helper](https://github.com/roniahmadi/pi_network_helper) | Python | Helper tooling for the Pi Network |
 | [roniahmadi.github.io](https://github.com/roniahmadi/roniahmadi.github.io) | JavaScript | Personal site |
 
