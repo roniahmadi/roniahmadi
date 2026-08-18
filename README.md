@@ -44,7 +44,6 @@ to shipping **upgradeable Solidity vaults** and clean **Docker** environments â€
   <img src="./metrics/overview.svg" alt="github metrics overview" />
 </p>
 <p align="center">
-  <img src="./metrics/languages.svg" alt="most used languages" />
   <img height="180" src="https://streak-stats.demolab.com/?user=roniahmadi&theme=radical&hide_border=true" alt="contribution streak" />
 </p>
 <p align="center">
