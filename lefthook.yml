@@ -15,11 +15,16 @@ pre-commit:
     workflow-yaml:
       glob: ".github/workflows/*.{yml,yaml}"
       run: python3 -c "import sys,yaml; [yaml.safe_load(open(f)) for f in sys.argv[1:]]" {staged_files}
+
+# Network checks live here rather than pre-commit: they take ~20s, which is
+# tolerable once per push but not on every commit.
+pre-push:
+  commands:
     readme-links:
       glob: "README.md"
       run: |
-        grep -oE 'src="https://[^"]+"' {staged_files} | sed 's/src="//;s/"$//' | sort -u | while read -r url; do
-          code=$(curl -s -o /dev/null -m 20 -w '%{http_code}' -L "$url")
+        grep -oE 'src="https://[^"]+"' README.md | sed 's/src="//;s/"$//' | sort -u | while read -r url; do
+          code=$(curl -s -o /dev/null -m 30 -w '%{http_code}' -L "$url")
           case "$code" in
             2*|3*) ;;
             *) echo "dead image $code $url"; exit 1 ;;
