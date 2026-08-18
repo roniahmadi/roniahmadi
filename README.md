@@ -56,3 +56,7 @@ to deploying clean **Docker** environments — I create systems that don’t jus
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ArjunaFransesco/ArjunaFransesco/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
